@@ -15,5 +15,6 @@
 
 
 #### Este taller se compone de los siguientes ficheros:
-*   taller01.ipynb: cuaderno de jupyter notebook para ejecutar en Google Colab
+*   taller01.ipynb: cuaderno de jupyter notebook para ejecutar en Google Colab.
 *   taller01.py   : exclusivamente el código python del fichero anterior.
+*   PIday2019.pdf : Diapositivas del taller.

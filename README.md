@@ -10,9 +10,10 @@
 2. Abrir Google Drive
 3. Crear una carpeta, por ejemplo: "PIday2019"
 4. Dentro de la carpeta copiar el fichero "taller01.ipynb" proporcionado en este proyecto Git
-5. Abrir dicho fichero con "Google Colab"
+5. Abrir dicho fichero con "Google Colab".<br>
+(A veces esta aplicación no está por defecto, por eso es conveniente asegurarse de que la hemos incluido antes de venir al taller)
 
 
-### Este taller se compone de los siguientes ficheros:
+#### Este taller se compone de los siguientes ficheros:
 *   taller01.ipynb: cuaderno de jupyter notebook para ejecutar en Google Colab
 *   taller01.py   : exclusivamente el código python del fichero anterior.
